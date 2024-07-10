@@ -11,3 +11,4 @@ __pycache__/
 gen-ai-venv/
 **.env
 **cert.pem
+.Trash-0/info
